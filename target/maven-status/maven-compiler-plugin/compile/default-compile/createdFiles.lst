@@ -1,0 +1,6 @@
+me\oceangrad\randomplayerexplosion\Util.class
+me\oceangrad\randomplayerexplosion\locale\Locale.class
+me\oceangrad\randomplayerexplosion\locale\LocaleManager.class
+me\oceangrad\randomplayerexplosion\RandomPlayerExplosionPlugin.class
+me\oceangrad\randomplayerexplosion\EventListener.class
+me\oceangrad\randomplayerexplosion\ExplosionTimerTask.class
