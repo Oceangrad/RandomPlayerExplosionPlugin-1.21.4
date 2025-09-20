@@ -1,5 +1,5 @@
 [ EN | [RU](README-ru.md) ]
-# Random Player Explosion plugin v1.0 for **Minecraft Spigot 1.21.4**(ru below)
+# Random Player Explosion plugin v1.0 for **Minecraft Spigot 1.21.4**
 ## Have fun with friends during random explosions!
 # **Localization**
 ## Theres a **DOC** if u want to make localization for ur **lang**:
